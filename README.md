@@ -1,0 +1,1 @@
+# telegram-dump-all-users-from-channels-and-groups-script
